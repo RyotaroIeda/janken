@@ -1,3 +1,4 @@
+#スタート
 require "./janken"
 require "./point"
 
